@@ -14,4 +14,4 @@ Using HTML, CSS, and JS you're able to remove and add tasks, you're able to chec
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- https://zeexox3.github.io/se_project_todo-app/
