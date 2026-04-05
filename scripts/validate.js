@@ -1,3 +1,7 @@
+// i commented everything out to not have duplicate coding but i wasnt
+// sure if i needed to delete the whole file
+
+/*
 const showInputError = (formElement, inputElement, errorMessage, settings) => {
   const errorElementId = `#${inputElement.id}-error`;
   const errorElement = formElement.querySelector(errorElementId);
@@ -68,3 +72,4 @@ const enableValidation = (settings) => {
   });
   setEventListeners(formElement, settings);
 };
+*/
