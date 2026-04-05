@@ -1,14 +1,14 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A simple Todo app where you can add and remove todo's on and off your list alog with due dates.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Useful for grocery shopping, planning your day, and all around useful if you need a list.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+Using HTML, CSS, and JS you're able to remove and add tasks, you're able to check them off whenever.
 
 ## Deployment
 
