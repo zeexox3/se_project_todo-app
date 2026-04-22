@@ -25,6 +25,11 @@ class Todo {
   }
 
   _generateDatesEl() {
+    if (!this._data.date) {
+      this._todoDate.textContent = "";
+      return;
+    }
+
     const dueDate = new Date(this._data.date);
 
     if (!isNaN(dueDate.getTime())) {
@@ -33,6 +38,8 @@ class Todo {
         month: "short",
         day: "numeric",
       })}`;
+    } else {
+      this._todoDate.textContent = "";
     }
   }
 
